@@ -29,6 +29,8 @@
         </ul>
         <h3>🚀 How it Works:</h3>
         <p>Students need to sign up for an account to fully participate. Once logged in, they can post questions, answer others' questions, and interact with the community. The platform supports real-time updates, ensuring an engaging and collaborative environment.</p>
+         <h3>👨‍💻 Frontend Repository:</h3>
+        <p>You can find the frontend code for the Evangadi platform on GitHub here: <a href="https://github.com/Gigi-dev21/evangadi-frontend" target="_blank">Evangadi Frontend</a></p>
         <h3>🔗 Demo Link:</h3>
         <p>Experience Evangadi in action with the live demo: <a href="https://yourdemo.link" target="_blank">Evangadi Demo</a></p> <!-- Replace with your actual demo URL -->
-        <
+        

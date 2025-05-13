@@ -21,11 +21,11 @@
         <h3>🛠️ Technologies Used:</h3>
         <p>The platform is built using the following technologies:</p>
         <ul>
-            <li>💾 <strong>MySQL:</strong> For storing user data, questions, and answers.</li>
-            <li>⚛️ <strong>React:</strong> For building a responsive and dynamic front-end user interface.</li>
-            <li>🌐 <strong>Node.js & Express:</strong> To handle the back-end API and server-side logic.</li>
-            <li>🔌 <strong>Axios:</strong> For making HTTP requests between the front-end and back-end.</li>
-            <li>🖥️ <strong>Bootstrap:</strong> For a clean, responsive, and user-friendly design.</li>
+            <li><strong>MySQL:</strong> For storing user data, questions, and answers.</li>
+            <li><strong>React:</strong> For building a responsive and dynamic front-end user interface.</li>
+            <li><strong>Node.js & Express:</strong> To handle the back-end API and server-side logic.</li>
+            <li><strong>Axios:</strong> For making HTTP requests between the front-end and back-end.</li>
+            <li><strong>Bootstrap:</strong> For a clean, responsive, and user-friendly design.</li>
         </ul>
         <h3>🚀 How it Works:</h3>
         <p>Students need to sign up for an account to fully participate. Once logged in, they can post questions, answer others' questions, and interact with the community. The platform supports real-time updates, ensuring an engaging and collaborative environment.</p>

@@ -11,7 +11,7 @@
     </header>
     <section>
         <h2>ℹ️ About Evangadi</h2>
-        <p><strong>Evangadi</strong> is a powerful, student-focused Question and Answer platform designed to help learners ask and answer questions efficiently. It creates a space for students to interact, share knowledge, and clarify concepts in various subjects. By providing a simple and intuitive interface, Evangadi aims to enhance the learning experience through collaborative communication.</p>
+        <p><strong>Evangadi</strong> is a powerful, student-focused Question and Answer platform designed to help learners ask and answer questions efficiently. It creates a space for students to interact, share knowledge, and clarify concepts in various subjects. By providing a simple and intuitive interface, it aims to enhance the learning experience through collaborative communication.</p>
         <h3>🔑 Key Features:</h3>
         <ul>
             <li>❓ <strong>Ask Questions:</strong> Students can post questions they have in different categories.</li>

@@ -8,7 +8,6 @@
 <body>
     <header>
         <h1>📚 Evangadi - Question and Answer Platform</h1>
-        <img src="https://yourlogoimageurl.com" alt="Evangadi Logo" /> <!-- Replace with your logo URL -->
     </header>
     <section>
         <h2>ℹ️ About Evangadi</h2>

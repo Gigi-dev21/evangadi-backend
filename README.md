@@ -32,5 +32,5 @@
          <h3>👨‍💻 Frontend Repository:</h3>
         <p>You can find the frontend code for the Evangadi platform on GitHub here: <a href="https://github.com/Gigi-dev21/evangadi-frontend" target="_blank">Evangadi Frontend</a></p>
         <h3>🔗 Demo Link:</h3>
-        <p>Experience Evangadi in action with the live demo: <a href="https://yourdemo.link" target="_blank">Evangadi Demo</a></p> <!-- Replace with your actual demo URL -->
+        <p>Experience Evangadi in action with the live demo: <a href="https://drive.google.com/file/d/1HzwJCMRBQxbhpGzW1LN6RKK7o6JHaZdq/view?usp=drive_link" target="_blank">Evangadi Demo</a></p> <!-- Replace with your actual demo URL -->
         
